@@ -18,6 +18,7 @@ I’m *Pavan Alapati*, I am a rising third-year undergraduate Student at KL Univ
 
 As a student, I've been fortunate to receive guidance and support from many people along my journey, and it’s made a huge difference. Now, I’m always happy for helping others and sharing what I’ve learned from my experiences. Please don’t hesitate to reach out if you ever need advice or assistance!
 
+On my blog, I'll post CTF writeups, my CVE findings, and whatever else comes to mind.
 
 
 
