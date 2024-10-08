@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Hello there! Thanks for thinking I'm interesting enough to check up on. If you've come this far, I encourage you to say hello before you leave :)
 
 profile:
   align: right
@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
+**Hello there! Thanks for thinking I'm interesting enough to check up on. If you've come this far, I encourage you to say hello before you leave :)**
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
