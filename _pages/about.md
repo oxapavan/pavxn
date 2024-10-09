@@ -4,11 +4,7 @@ title: about
 permalink: /
 subtitle: Hello there! Thanks for thinking I'm interesting enough to check up on. If you've come this far, I encourage you to say hello before you leave :)
 
-profile:
-  align: right
-  more_info: >
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
 social: true # includes social icons at the bottom of the page
 ---
 
